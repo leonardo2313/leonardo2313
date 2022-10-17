@@ -9,3 +9,12 @@
 leonardo2313/leonardo2313 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+ -:yum: gosto de comer pizza
+ 
+ -:muscle: gosto de treinar
+ 
+ -:bicyclist: gosto de andar de bicicleta
+ 
+ -:cat:	tenho um gato chamado lionel
+ 
+ -:wolf: tenho um cachorro chamado Chico
